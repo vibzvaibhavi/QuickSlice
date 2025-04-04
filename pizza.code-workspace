@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Grab-your-Pizza-master/application/backend"
+		},
+		{
+			"path": "../Grab-your-Pizza-master/application/frontend"
+		},
+		{
+			"path": "../Grab-your-Pizza-master/data"
+		}
+	],
+	"settings": {}
+}
